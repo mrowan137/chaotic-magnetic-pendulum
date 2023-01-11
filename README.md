@@ -2,8 +2,9 @@
 
 This directory contains a
 [simplified physics model](https://github.com/mrowan137/chaotic-magnetic-pendulum/blob/main/chaotic_magnetic_pendulum.nb)
-of a chaotic magnetic pendulum. The model simulates the motion of a magnet
-that swings freely over an arrangement of magnets placed at the vertices of a
+(implemented in [Mathematica](https://www.wolfram.com/mathematica/)) of a
+chaotic magnetic pendulum. The model simulates the motion of a magnet that
+swings freely over an arrangement of magnets placed at the vertices of a
 hexagon. Animation of the model:
 
 <img src="https://github.com/mrowan137/chaotic-magnetic-pendulum/blob/main/docs/demo/chaotic_magnetic_pendulum_demo.gif">
