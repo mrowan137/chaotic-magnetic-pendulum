@@ -33,3 +33,8 @@ Michael E. Rowan — [mrowan137](https://github.com/mrowan137) — [michael@mrow
 ## License
 
 [MIT License](https://github.com/mrowan137/chaotic-magnetic-pendulum/blob/main/LICENSE).
+
+
+## Acknowledgment
+
+Aaron Santos
